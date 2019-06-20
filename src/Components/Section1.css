@@ -1,0 +1,77 @@
+* {
+  left: 0;
+
+}
+
+
+img {
+  height: 100vh;
+  width: 100vw;
+}
+
+.image-container {
+  display: flex;
+}
+
+.image1 {
+  display: block;
+  background: url(./../img/image1.jpeg) no-repeat; 
+  background-size: cover;
+  height: 100vh;
+}
+
+.image2 {
+  display: block;
+  background: url(./../img/image2.jpeg) no-repeat; 
+  background-size: cover;
+  height: 100vh;
+}
+
+.image3 {
+  display: block;
+  background: url(./../img/image3.jpeg) no-repeat; 
+  background-size: cover;
+  height: 100vh;
+}
+
+.slick-slider {
+  height: 100vh !important;
+}
+
+.image4 {
+  display: block;
+  background: url(./../img/image4.jpeg) no-repeat; 
+  background-size: cover;
+  height: 100vh;
+}
+
+.dot-overlay {
+  background-image: url('http://s14.directupload.net/images/111129/44ga9qid.png');
+  background-repeat: repeat;
+}
+
+.textBox {
+  height: 300px;
+  width: 500px;
+  position: absolute;
+  font-size: 50px;
+  font-weight: 600;
+  z-index: 100;
+  color: white;
+  transform: translateY(35vh);
+}
+
+.box1 {
+  left: 100px;
+  right: auto;
+
+
+
+}
+
+.box2 {
+  right: 100px;
+  left: auto;
+}
+
+

@@ -1,0 +1,45 @@
+.Header {
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    color: white;
+    overflow: hidden;
+}
+.logo {
+    float: left;
+}
+
+.logoImage {
+    transform: translateX(40px);
+    width: 80px;
+    height: auto;
+}
+
+.logoName {
+    margin-left: 60px;
+    transform: translateY(-30px);
+    width: 200px;
+    height: auto;
+}
+
+.navBar {
+    float: right;
+    height: 120px;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 25px;
+    
+}
+
+.navLink {
+    color: white !important;
+}
+
+.box1 {
+    color: red;
+}
+  

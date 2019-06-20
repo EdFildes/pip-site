@@ -1,0 +1,17 @@
+.Section2 {
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background-color: whitesmoke;
+    font-size: 50px;
+    color: black;
+  }
+
+.box {
+  height: 300px;
+}
+
+.box2 {
+  text-align: right;
+  
+}
