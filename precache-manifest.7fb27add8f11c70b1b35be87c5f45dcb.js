@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31e11df2ca5ccf50331f9047024a4d58",
+    "revision": "6d88c7257a57d06de0de72256397513a",
     "url": "/pip-site/index.html"
   },
   {
-    "revision": "57e2c7e5fbea6a807585",
-    "url": "/pip-site/static/css/2.de8dfb39.chunk.css"
+    "revision": "d2a43b6ea480791ec5f0",
+    "url": "/pip-site/static/css/2.7d6c53e1.chunk.css"
   },
   {
-    "revision": "2dee1d0826983ed25b5a",
-    "url": "/pip-site/static/css/main.ed843de0.chunk.css"
+    "revision": "13ef46e60ff92d95cd18",
+    "url": "/pip-site/static/css/main.62ad4968.chunk.css"
   },
   {
-    "revision": "57e2c7e5fbea6a807585",
-    "url": "/pip-site/static/js/2.88415966.chunk.js"
+    "revision": "d2a43b6ea480791ec5f0",
+    "url": "/pip-site/static/js/2.2cfb9076.chunk.js"
   },
   {
-    "revision": "2dee1d0826983ed25b5a",
-    "url": "/pip-site/static/js/main.6ae85080.chunk.js"
+    "revision": "13ef46e60ff92d95cd18",
+    "url": "/pip-site/static/js/main.4d389b96.chunk.js"
   },
   {
     "revision": "552ce955896551cca7de",
