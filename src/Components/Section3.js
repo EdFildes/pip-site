@@ -1,15 +1,14 @@
 import React from 'react'
 import './Section3.css'
 
-let divStyle = {
-    color: 'blue',
-}
-
 
 function Section3() {
     return (
         <div className="Section3">
-            <div style={divStyle}>
+            <div className="contact wow flipInY">
+                <h1>Contact</h1>
+                <hr />
+                <p>123 Fake Street, Bristol, BS8HHH</p>
             </div>
         </div>
     )

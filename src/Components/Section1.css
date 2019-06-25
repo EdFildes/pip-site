@@ -46,7 +46,7 @@ img {
 }
 
 .dot-overlay {
-  background-image: url('http://s14.directupload.net/images/111129/44ga9qid.png');
+  background-image: url(./../img/overlay.png);
   background-repeat: repeat;
 }
 
@@ -64,9 +64,6 @@ img {
 .box1 {
   left: 100px;
   right: auto;
-
-
-
 }
 
 .box2 {
@@ -74,4 +71,11 @@ img {
   left: auto;
 }
 
+.line {
+  height: 3px;
+  width: 100px;
+  background-color: yellow;
+  margin: 10px 0;
+  opacity: 0.3;
+}
 
