@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pip-site/static/css/main.b9079ac5.chunk.css",
+    "main.css": "/pip-site/static/css/main.238120dd.chunk.css",
     "main.js": "/pip-site/static/js/main.268413f9.chunk.js",
     "main.js.map": "/pip-site/static/js/main.268413f9.chunk.js.map",
     "runtime~main.js": "/pip-site/static/js/runtime~main.03489f51.js",
@@ -9,10 +9,10 @@
     "static/js/2.15588dcf.chunk.js": "/pip-site/static/js/2.15588dcf.chunk.js",
     "static/js/2.15588dcf.chunk.js.map": "/pip-site/static/js/2.15588dcf.chunk.js.map",
     "index.html": "/pip-site/index.html",
-    "precache-manifest.098fc757b56b0a9f58ac77885c228a6b.js": "/pip-site/precache-manifest.098fc757b56b0a9f58ac77885c228a6b.js",
+    "precache-manifest.69d1a2725f4e36a22f52e455b4f8b02c.js": "/pip-site/precache-manifest.69d1a2725f4e36a22f52e455b4f8b02c.js",
     "service-worker.js": "/pip-site/service-worker.js",
     "static/css/2.dc45c36e.chunk.css.map": "/pip-site/static/css/2.dc45c36e.chunk.css.map",
-    "static/css/main.b9079ac5.chunk.css.map": "/pip-site/static/css/main.b9079ac5.chunk.css.map",
+    "static/css/main.238120dd.chunk.css.map": "/pip-site/static/css/main.238120dd.chunk.css.map",
     "static/media/Section3.css": "/pip-site/static/media/blueBackground.47198376.jpg",
     "static/media/Section1.css": "/pip-site/static/media/image4.3544fd3e.jpeg",
     "static/media/logoImage.png": "/pip-site/static/media/logoImage.c1738154.png",
